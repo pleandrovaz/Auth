@@ -46,7 +46,6 @@ namespace Auth.Controllers
         }
 
 
-
         //[HttpGet]
         //[Route("anonymous")]
         //[AllowAnonymous]
